@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/104300528/189708893-48abea71-8ade-4b4d-8cab-995ff55534ed.gif)
+https://user-images.githubusercontent.com/104300528/189725865-2c2720cb-294c-4f28-b148-ac0c2eed646c.mp4
 
 This project is a starting point for a Flutter application.
 
