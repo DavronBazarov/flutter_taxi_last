@@ -1,9 +1,4 @@
 # flutter_taxi
-
-A new Flutter project.
-
-## Getting Started
-
 https://user-images.githubusercontent.com/104300528/189725865-2c2720cb-294c-4f28-b148-ac0c2eed646c.mp4
 
 This project is a starting point for a Flutter application.
